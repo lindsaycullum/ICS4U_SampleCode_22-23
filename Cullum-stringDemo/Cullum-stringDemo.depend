@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1676053997 source:p:\github\0_intro-ms-cullum\cullum-stringdemo\main.cpp
+	<iostream>
+	<string>
+
+1676053840 source:p:\github\0_intro-ms-cullum\cullum-stringdemo\printoutput.cpp
+	<iostream>
+	<string>
+
+1676054043 source:\\staff3.ad.ocdsb.ca\staff3\lindsay.cullum\github\0_intro-ms-cullum\cullum-stringdemo\printoutput.cpp
+	<iostream>
+	<string>
+
+1676323609 source:\\staff3.ad.ocdsb.ca\staff3\lindsay.cullum\github\0_intro-ms-cullum\cullum-stringdemo\main.cpp
+	<iostream>
+	<string>
+
