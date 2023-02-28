@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1677607929 source:p:\github\ics4u_samplecode_22-23\acrobatdemo\main.cpp
+	<iostream>
+	"Acrobat.h"
+
+1677609229 p:\github\ics4u_samplecode_22-23\acrobatdemo\acrobat.h
+	<string>
+	<iostream>
+
+1677609116 source:p:\github\ics4u_samplecode_22-23\acrobatdemo\acrobat.cpp
+	"Acrobat.h"
+
