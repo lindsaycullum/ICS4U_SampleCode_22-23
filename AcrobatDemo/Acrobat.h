@@ -12,12 +12,17 @@ class Acrobat {
         Acrobat();
         ~Acrobat();
 
-        //methods that the acrobat can perform
+        //member methods that the acrobat can perform
         string clap(int number);
         string kneebend(int number);
+
+        //static method - get number of acrobats
+        static int getNumAcrobats();
 
     private:
         //private instance variables
 
+        //private static variables
+        static int numAcrobats;
 
 };

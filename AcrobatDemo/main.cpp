@@ -12,6 +12,7 @@ int main(){
 
     cout << "catty says: " << catty.clap(4) << endl;
 
+    cout << "There are " << Acrobat::getNumAcrobats() << endl;
     return 0;
 
 }
