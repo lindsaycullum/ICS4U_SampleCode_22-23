@@ -6,7 +6,7 @@ using namespace std;
 int main(){
 
     cout << "Hello World" << endl;
-    cout << "There is more." << endl;
+
 
     float age;
     cout << "What is your age?" << endl;
